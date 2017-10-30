@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{A56F9CF3-461B-4501-A928-40C28813FBBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvoinoiPoisk", "DvoinoiPoisk\DvoinoiPoisk.csproj", "{E4A59D89-4648-40AD-84E8-A53947AA5435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortirovkaViborom", "SortirovkaViborom\SortirovkaViborom.csproj", "{59916BC5-0FD3-4FB8-A531-E85EFCE2202D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortirovkaPuzirkom", "SortirovkaPuzirkom\SortirovkaPuzirkom.csproj", "{0ED9AFFA-E1C1-4BE9-8D36-064290C29966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodVklucheniya", "MethodVklucheniya\MethodVklucheniya.csproj", "{393F30B9-9792-4BFE-A649-35A824B22DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastSort", "FastSort\FastSort.csproj", "{C2D2F490-A440-4343-954F-97E0B6232E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56F9CF3-461B-4501-A928-40C28813FBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56F9CF3-461B-4501-A928-40C28813FBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56F9CF3-461B-4501-A928-40C28813FBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56F9CF3-461B-4501-A928-40C28813FBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A59D89-4648-40AD-84E8-A53947AA5435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A59D89-4648-40AD-84E8-A53947AA5435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A59D89-4648-40AD-84E8-A53947AA5435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A59D89-4648-40AD-84E8-A53947AA5435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59916BC5-0FD3-4FB8-A531-E85EFCE2202D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59916BC5-0FD3-4FB8-A531-E85EFCE2202D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59916BC5-0FD3-4FB8-A531-E85EFCE2202D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59916BC5-0FD3-4FB8-A531-E85EFCE2202D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED9AFFA-E1C1-4BE9-8D36-064290C29966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED9AFFA-E1C1-4BE9-8D36-064290C29966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED9AFFA-E1C1-4BE9-8D36-064290C29966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED9AFFA-E1C1-4BE9-8D36-064290C29966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393F30B9-9792-4BFE-A649-35A824B22DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393F30B9-9792-4BFE-A649-35A824B22DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393F30B9-9792-4BFE-A649-35A824B22DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393F30B9-9792-4BFE-A649-35A824B22DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D2F490-A440-4343-954F-97E0B6232E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D2F490-A440-4343-954F-97E0B6232E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D2F490-A440-4343-954F-97E0B6232E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D2F490-A440-4343-954F-97E0B6232E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
